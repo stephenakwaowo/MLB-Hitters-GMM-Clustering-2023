@@ -1,1 +1,1 @@
-# MLB-Hitter-Cluster
+# MLB Hitter Cluster
