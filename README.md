@@ -10,7 +10,7 @@ This project aims to group MLB hitters into clusters based on a comprehensive se
 
 **3. Preprocessing:** Standardized the data to ensure fair comparison and employed Principal Component Analysis (PCA) for dimensionality reduction while retaining 95% variance.
 
-### Clustering Algorithms:
+**4. **Clustering Algorithms:****
 
 Applied four clustering techniques to create a diverse representation of hitter groupings:
 
@@ -22,13 +22,14 @@ Applied four clustering techniques to create a diverse representation of hitter 
 
 **Fuzzy C-Means:** For centroid-based clustering
 
+**5. **Cluster Evaluation:**** Utilized silhouette scores, AIC/BIC criteria, and t-SNE visualizations to evaluate the quality of the clusters and refine the model.
+
+**6. **Insights and Results:**** Analyzed cluster characteristics to identify player types, explored the relationship between clusters and player success, and interpreted how certain clusters may predict future performance.
+
+
 ### Visualization
 
-Radar charts were generated to visualize each cluster's profile, highlighting their strengths and weaknesses across different feature categories.
-
-**Cluster Evaluation:** Utilized silhouette scores, AIC/BIC criteria, and t-SNE visualizations to evaluate the quality of the clusters and refine the model.
-
-**Insights and Results:** Analyzed cluster characteristics to identify player types, explored the relationship between clusters and player success, and interpreted how certain clusters may predict future performance.
+**Radar charts** were generated to visualize each cluster's profile, highlighting their strengths and weaknesses across different feature categories.
 
 ### Key Findings
 - Detailed the distinct player profiles emerging from clusters, highlighting potential undervalued skill sets.
