@@ -1,1 +1,135 @@
-
+bad_name,Name,player_id,Season,Age,50th_max_velo,P/PA,b_total_pitches,pa
+"LeMahieu, DJ",DJ LeMahieu,518934,2023,34,100.3,4.01,2254,562
+"Rodríguez, Julio",Julio Rodríguez,677594,2023,22,104.1,3.52,2511,714
+"Springer III, George",George Springer III,543807,2023,33,100.3,3.70,2528,683
+"Bogaerts, Xander",Xander Bogaerts,593428,2023,30,98.5,3.98,2644,665
+"Raleigh, Cal",Cal Raleigh,663728,2023,26,101.0,4.11,2338,569
+"Smith, Will",Will Smith,669257,2023,28,99.6,4.14,2292,554
+"Suárez, Eugenio",Eugenio Suárez,553993,2023,31,100.7,4.18,2903,694
+"Hoerner, Nico",Nico Hoerner,663538,2023,26,97.3,3.69,2539,688
+"Casas, Triston",Triston Casas,671213,2023,23,102.6,4.11,2062,502
+"Swanson, Dansby",Dansby Swanson,621020,2023,29,99.8,4.01,2558,638
+"Cronenworth, Jake",Jake Cronenworth,630105,2023,29,97.7,3.95,2060,522
+"Acuña Jr., Ronald",Ronald Acuña Jr.,660670,2023,25,106.4,3.79,2782,735
+"Merrifield, Whit",Whit Merrifield,593160,2023,34,94.9,3.72,2200,592
+"Realmuto, J.T.",J.T. Realmuto,592663,2023,32,101.3,3.88,2096,540
+"Santander, Anthony",Anthony Santander,623993,2023,28,101.7,4.21,2764,656
+"Varsho, Daulton",Daulton Varsho,662139,2023,26,99.9,3.98,2313,581
+"Rosario, Amed",Amed Rosario,642708,2023,27,99.5,3.63,1979,545
+"Rosario, Eddie",Eddie Rosario,592696,2023,31,98.6,3.70,1908,516
+"Marte, Ketel",Ketel Marte,606466,2023,29,101.6,3.82,2483,650
+"Torkelson, Spencer",Spencer Torkelson,679529,2023,23,102.7,4.11,2814,684
+"Castellanos, Nick",Nick Castellanos,592206,2023,31,100.4,3.62,2427,671
+"Hernández, Teoscar",Teoscar Hernández,606192,2023,30,103.0,3.94,2673,678
+"Muncy, Max",Max Muncy,571970,2023,32,101.3,4.29,2485,579
+"Suwinski, Jack",Jack Suwinski,669261,2023,24,102.2,4.27,2281,534
+"Ozuna, Marcell",Marcell Ozuna,542303,2023,32,103.3,4.00,2366,592
+"Renfroe, Hunter",Hunter Renfroe,592669,2023,31,100.5,3.84,2107,548
+"Guerrero Jr., Vladimir",Vladimir Guerrero Jr.,665489,2023,24,104.1,3.58,2441,682
+"Stott, Bryson",Bryson Stott,681082,2023,25,97.4,4.16,2665,640
+"Drury, Brandon",Brandon Drury,592273,2023,30,101.8,3.75,1963,523
+"Friedl Jr., TJ",TJ Friedl Jr.,670770,2023,27,96.4,3.95,2194,556
+"Hays, Austin",Austin Hays,669720,2023,27,100.5,3.75,2122,566
+"Paredes, Isaac",Isaac Paredes,670623,2023,24,96.4,4.14,2366,571
+"Tovar, Ezequiel",Ezequiel Tovar,678662,2023,21,99.0,3.72,2290,615
+"Arraez, Luis",Luis Arraez,650333,2023,26,95.7,3.50,2161,617
+"Ramírez, José",José Ramírez,608070,2023,30,100.1,3.78,2610,691
+"Happ, Ian",Ian Happ,664023,2023,28,99.7,4.14,2862,691
+"Kwan, Steven",Steven Kwan,680757,2023,25,94.1,3.96,2843,718
+"Robert Jr., Luis",Luis Robert Jr.,673357,2023,25,101.8,3.70,2200,595
+"Abrams, CJ",CJ Abrams,682928,2023,22,98.8,3.60,2212,614
+"Bell, Josh",Josh Bell,605137,2023,30,101.6,3.94,2428,617
+"Freeman, Freddie",Freddie Freeman,518692,2023,33,100.6,3.77,2753,730
+"Lowe, Nathaniel",Nathaniel Lowe,663993,2023,27,101.1,4.20,3044,724
+"Santana, Carlos",Carlos Santana,467793,2023,37,99.4,3.98,2463,619
+"Smith, Dominic",Dominic Smith,642086,2023,28,97.2,3.77,2210,586
+"Arozarena, Randy",Randy Arozarena,668227,2023,28,102.1,4.10,2679,654
+"McNeil, Jeff",Jeff McNeil,643446,2023,31,96.0,3.38,2193,648
+"Arcia, Orlando",Orlando Arcia,606115,2023,28,99.2,4.00,2132,533
+"Anderson, Tim",Tim Anderson,641313,2023,30,99.2,3.71,1942,524
+"Grisham, Trent",Trent Grisham,663757,2023,26,100.7,4.22,2341,555
+"Bellinger, Cody",Cody Bellinger,641355,2023,27,97.7,3.88,2158,556
+"Crawford, J.P.",J.P. Crawford,641487,2023,28,99.1,4.12,2629,638
+"Witt Jr., Bobby",Bobby Witt Jr.,677951,2023,23,102.1,3.89,2701,694
+"Abreu, José",José Abreu,547989,2023,36,100.8,4.04,2400,594
+"Devers, Rafael",Rafael Devers,646240,2023,26,104.5,3.93,2579,656
+"Turner, Trea",Trea Turner,607208,2023,30,100.3,3.87,2675,691
+"Correa, Carlos",Carlos Correa,621043,2023,28,102.5,3.89,2257,580
+"Melendez Jr., MJ",MJ Melendez Jr.,669004,2023,24,101.4,4.05,2440,602
+"Benintendi, Andrew",Andrew Benintendi,643217,2023,28,95.5,3.79,2351,621
+"Vaughn, Andrew",Andrew Vaughn,683734,2023,25,101.7,3.77,2317,615
+"Seager, Corey",Corey Seager,608369,2023,29,103.5,3.44,1846,536
+"Tatis Jr., Fernando",Fernando Tatis Jr.,665487,2023,24,102.9,3.68,2335,635
+"Walker, Christian",Christian Walker,572233,2023,32,100.6,4.04,2671,661
+"Turner, Justin",Justin Turner,457759,2023,38,98.6,4.27,2670,626
+"Rutschman, Adley",Adley Rutschman,668939,2023,25,99.6,4.23,2904,687
+"Harris II, Michael",Michael Harris II,671739,2023,22,103.6,3.63,1954,539
+"Candelario, Jeimer",Jeimer Candelario,600869,2023,29,99.2,4.05,2333,576
+"Verdugo, Alex",Alex Verdugo,657077,2023,27,99.1,3.93,2364,602
+"Chapman, Matt",Matt Chapman,656305,2023,30,103.5,4.22,2451,581
+"Ohtani, Shohei",Shohei Ohtani,660271,2023,28,105.7,3.87,2321,599
+"Carroll, Corbin",Corbin Carroll,682998,2023,22,101.0,3.77,2431,645
+"Harper, Bryce",Bryce Harper,547180,2023,30,103.8,3.70,2021,546
+"Reynolds, Bryan",Bryan Reynolds,668804,2023,28,101.0,3.94,2524,640
+"Bohm, Alec",Alec Bohm,664761,2023,26,100.4,3.69,2252,611
+"Machado, Manny",Manny Machado,592518,2023,30,102.4,3.80,2284,601
+"Albies, Ozzie",Ozzie Albies,645277,2023,26,98.7,3.88,2563,660
+"Peña, Jeremy",Jeremy Peña,665161,2023,25,99.1,3.63,2299,634
+"Semien, Marcus",Marcus Semien,543760,2023,32,98.1,3.72,2799,753
+"Giménez, Andrés",Andrés Giménez,665926,2023,24,96.7,3.81,2346,616
+"Nootbaar, Lars",Lars Nootbaar,663457,2023,25,100.3,4.12,2074,503
+"Outman, James",James Outman,681546,2023,26,100.0,4.15,2352,567
+"Davis, J.D.",J.D. Davis,605204,2023,30,101.4,3.83,2092,546
+"Tucker, Kyle",Kyle Tucker,663656,2023,26,100.8,3.81,2570,674
+"Bregman, Alex",Alex Bregman,608324,2023,29,98.1,3.85,2789,724
+"Arenado, Nolan",Nolan Arenado,571448,2023,32,99.3,3.73,2285,612
+"Jung, Josh",Josh Jung,673962,2023,25,101.6,3.84,1976,515
+"Edman, Tommy",Tommy Edman,669242,2023,28,99.5,3.43,1809,528
+"Ruiz, Keibert",Keibert Ruiz,660688,2023,24,97.3,3.36,1887,562
+"Burger, Jake",Jake Burger,669394,2023,27,105.0,3.79,2048,540
+"Díaz, Elias",Elias Díaz,553869,2023,32,100.0,3.77,1984,526
+"Wade Jr., LaMonte",LaMonte Wade Jr.,664774,2023,29,99.5,4.05,2102,519
+"Yelich, Christian",Christian Yelich,592885,2023,31,103.2,4.05,2559,632
+"Taveras, Leody",Leody Taveras,665750,2023,24,100.6,3.80,2106,554
+"Gurriel Jr., Lourdes",Lourdes Gurriel Jr.,666971,2023,29,99.9,3.74,2216,592
+"Olson, Matt",Matt Olson,621566,2023,29,104.8,4.29,3092,720
+"Yoshida, Masataka",Masataka Yoshida,807799,2023,29,100.1,3.79,2197,580
+"Canha, Mark",Mark Canha,592192,2023,34,99.0,4.11,2085,507
+"Alonso, Pete",Pete Alonso,624413,2023,28,102.3,3.90,2567,658
+"Rooker Jr., Brent",Brent Rooker Jr.,667670,2023,28,102.7,4.09,2152,526
+"Estrada, Thairo",Thairo Estrada,642731,2023,27,97.9,3.63,1923,530
+"Hayes, Ke'Bryan",Ke'Bryan Hayes,663647,2023,26,101.7,3.67,1929,525
+"Bichette, Bo",Bo Bichette,666182,2023,25,101.7,3.70,2225,601
+"McKinstry, Zach",Zach McKinstry,656716,2023,28,97.7,4.08,2114,518
+"Vierling, Matt",Matt Vierling,663837,2023,26,100.6,4.02,2133,530
+"Hernández, Enrique",Enrique Hernández,571771,2023,31,97.8,3.87,1964,508
+"Thomas, Lane",Lane Thomas,657041,2023,27,100.2,3.85,2627,682
+"Straw, Myles",Myles Straw,664702,2023,28,95.1,3.84,1991,518
+"Soto, Juan",Juan Soto,665742,2023,24,104.5,4.09,2897,708
+"Soler, Jorge",Jorge Soler,624585,2023,31,103.1,3.99,2315,580
+"Báez, Javier",Javier Báez,595879,2023,30,100.2,3.60,1970,547
+"McMahon, Ryan",Ryan McMahon,641857,2023,28,102.0,4.37,2742,627
+"Perez, Salvador",Salvador Perez,521692,2023,33,101.4,3.55,2061,580
+"Riley, Austin",Austin Riley,663586,2023,26,103.4,4.00,2861,715
+"Adames, Willy",Willy Adames,642715,2023,27,99.1,4.07,2596,638
+"Lindor, Francisco",Francisco Lindor,596019,2023,29,100.8,3.99,2741,687
+"Meneses, Joey",Joey Meneses,608841,2023,31,99.9,3.87,2543,657
+"García, Adolis",Adolis García,666969,2023,30,102.9,4.05,2562,632
+"Garcia, Maikel",Maikel Garcia,672580,2023,23,101.5,3.86,1989,515
+"India, Jonathan",Jonathan India,663697,2023,26,99.7,4.17,2205,529
+"Volpe, Anthony",Anthony Volpe,683011,2023,22,99.5,3.89,2335,601
+"Schwarber, Kyle",Kyle Schwarber,656941,2023,30,103.4,4.26,3068,720
+"France, Ty",Ty France,664034,2023,28,99.3,3.65,2425,665
+"Goldschmidt, Paul",Paul Goldschmidt,502671,2023,35,102.4,4.14,2847,687
+"Betts, Mookie",Mookie Betts,605141,2023,30,100.9,3.91,2712,693
+"Nimmo, Brandon",Brandon Nimmo,607043,2023,30,101.5,4.17,2847,682
+"Stephenson, Tyler",Tyler Stephenson,663886,2023,26,100.0,3.97,2051,517
+"Contreras, William",William Contreras,661388,2023,25,103.2,3.96,2419,611
+"Díaz, Yandy",Yandy Díaz,650490,2023,31,104.3,3.93,2357,600
+"Profar, Jurickson",Jurickson Profar,595777,2023,30,97.2,4.04,2104,521
+"Kim, Ha-Seong",Ha-Seong Kim,673490,2023,27,96.6,4.36,2727,626
+"Henderson, Gunnar",Gunnar Henderson,683002,2023,22,102.7,3.87,2405,622
+"Torres, Gleyber",Gleyber Torres,650402,2023,26,99.6,3.94,2647,672
+"De La Cruz, Bryan",Bryan De La Cruz,650559,2023,26,100.3,3.94,2467,626
+"Steer, Spencer",Spencer Steer,668715,2023,25,99.2,4.04,2684,665
+"Suzuki, Seiya",Seiya Suzuki,673548,2023,28,102.2,4.19,2445,583
