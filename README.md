@@ -1,6 +1,9 @@
 # Clustering-MLB-Hitters: A project on Gaussian Mixture Models, OPTICS, Spectral graph-based clustering & Fuzzy C-Means
 
+### Installation & Packages
 
+
+```Python
 import torch
 import torch.nn as nn 
 import torch.nn. functional as F
@@ -26,3 +29,4 @@ from scipy.spatial.distance import pdist, squareform
 from sklearn.metrics import silhouette_score
 from IPython.display import display
 from math import pi
+```
