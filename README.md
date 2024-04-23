@@ -4,7 +4,7 @@
 This project aims to group MLB hitters into clusters based on a comprehensive set of non-traditional batting metrics. By moving beyond standard statistics like batting average and RBIs, the project seeks to identify inherent similarities among players and uncover patterns that traditional metrics may overlook.
 
 ### Methodology
-**1. Data Collection:** Assembled a datasets from Fangraphs and Baseball Reference which includes various advanced metrics that provide deeper insights into player performances.
+**1. Data Collection:** Assembled datasets from Fangraphs and Baseball Reference which includes various advanced metrics that provide deeper insights into player performances.
 
 **2. Feature Selection:** Chose to focus on metrics such as O-Contact%, 50th Max Exit Velocity, Barrels per Batted Ball Event (Brls/BBE%), etc., to form the basis for clustering.
 
