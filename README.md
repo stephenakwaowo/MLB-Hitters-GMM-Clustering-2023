@@ -14,13 +14,13 @@ This project aims to group MLB hitters into clusters based on a comprehensive se
 
 Applied four clustering techniques to create a diverse representation of hitter groupings:
 
-**OPTICS:** For density-based clustering
+**- OPTICS:** For density-based clustering
 
-**GMM:** For distribution-based clustering
+**- GMM:** For distribution-based clustering
 
-**Spectral Clustering with Louvain Modularity:** For graph-based clustering
+**- Spectral Clustering with Louvain Modularity:** For graph-based clustering
 
-**Fuzzy C-Means:** For centroid-based clustering
+**- Fuzzy C-Means:** For centroid-based clustering
 
 **5. **Cluster Evaluation:**** Utilized silhouette scores, AIC/BIC criteria, and t-SNE visualizations to evaluate the quality of the clusters and refine the model.
 
@@ -37,10 +37,8 @@ Applied four clustering techniques to create a diverse representation of hitter 
 - The clustering analysis revealed distinct groupings of players that correlate with higher levels of on-field success. Each cluster had unique combinations of strengths in power hitting, swing decisions, bat-to-ball skills, and baserunning. These insights could assist team management and coaching staff in player assessment and strategic decision-making.
 
 
-
 ### Technologies Used
 Python for data analysis and modeling, with libraries such as pandas, NumPy, scikit-learn, and Matplotlib.
-Jupyter Notebooks for an interactive coding environment and visualization.
 
 
 ### Libraries to Use
