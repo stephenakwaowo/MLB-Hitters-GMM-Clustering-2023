@@ -1,35 +1,26 @@
-# Clustering-MLB-Hitters: A project on Gaussian Mixture Models, OPTICS, Spectral graph-based clustering & Fuzzy C-Means
+# Clustering-MLB-Hitters: A project on Gaussian Mixture Models and Dimensionality Reduction, Visualized with Shiny
 
 ### Project Overview
-This project aims to group MLB hitters into clusters based on a comprehensive set of non-traditional batting metrics. By moving beyond standard statistics like batting average and RBIs, the project seeks to identify inherent similarities among players and uncover patterns that traditional metrics may overlook.
+This project utilizes advanced data science techniques to analyze and cluster MLB hitters based on their performance in the 2023 season. The goal is to uncover distinct patterns and groupings that transcend traditional statistical analysis, offering new insights into player performance.
+
 
 ### Methodology
-**1. Data Collection:** Assembled datasets from Fangraphs and Baseball Reference which includes various advanced metrics that provide deeper insights into player performances.
+**1. Dimensionality Reduction:** Implemented PCA to reduce feature space, retaining significant variance, followed by t-SNE for intuitive low-dimensional visualization.
 
-**2. Feature Selection:** Chose to focus on metrics such as O-Contact%, 50th Max Exit Velocity, Barrels per Batted Ball Event (Brls/BBE%), etc., to form the basis for clustering.
+**2. Clustering:** Applied Gaussian Mixture Models (GMM) to discover latent player groupings, with flexibility to account for multi-cluster memberships.
 
-**3. Preprocessing:** Standardized the data to ensure fair comparison and employed Principal Component Analysis (PCA) for dimensionality reduction while retaining 95% variance.
+**3. Model Selection:** Determined the optimal number of clusters using Akaike Information Criterion (AIC) and Bayesian Information Criterion (BIC).
 
-**4. **Clustering Algorithms:****
+**4. Validation:** Used silhouette scores to evaluate clustering quality.
 
-Applied four clustering techniques to create a diverse representation of hitter groupings:
-
-**- OPTICS:** For density-based clustering
-
-**- GMM:** For distribution-based clustering
-
-**- Spectral Clustering with Louvain Modularity:** For graph-based clustering
-
-**- Fuzzy C-Means:** For centroid-based clustering
-
-**5. **Cluster Evaluation:**** Utilized silhouette scores, AIC/BIC criteria, and t-SNE visualizations to evaluate the quality of the clusters and refine the model.
-
-**6. **Insights and Results:**** Analyzed cluster characteristics to identify player types, explored the relationship between clusters and player success, and interpreted how certain clusters may predict future performance.
 
 
 ### Visualization
 
-**Radar charts** were generated to visualize each cluster's profile, highlighting their strengths and weaknesses across different feature categories.
+1. Utilized t-SNE plots and GMM confidence ellipses to visually depict player clusters.
+
+2. Radar charts were generated to visualize each cluster's profile, highlighting their strengths and weaknesses across different feature categories.
+
 
 ### Key Findings
 - Detailed the distinct player profiles emerging from clusters, highlighting potential undervalued skill sets.
@@ -37,8 +28,34 @@ Applied four clustering techniques to create a diverse representation of hitter 
 - The clustering analysis revealed distinct groupings of players that correlate with higher levels of on-field success. Each cluster had unique combinations of strengths in power hitting, swing decisions, bat-to-ball skills, and baserunning. These insights could assist team management and coaching staff in player assessment and strategic decision-making.
 
 
+
 ### Technologies Used
-Python for data analysis and modeling, with libraries such as pandas, NumPy, scikit-learn, and Matplotlib.
+**Python:** Main programming language.
+
+**pandas, numpy:** Data manipulation and numerical operations.
+
+**matplotlib, seaborn, plotly:** Data visualization.
+
+**scikit-learn:** Machine learning and data preprocessing.
+
+**shiny:** For deploying interactive web applications to showcase cluster analysis.
+
+
+### Deployment
+The visualization and interaction layer is deployed using Shiny, which allows users to interact with the data:
+
+**- Interactive Radar Charts:** Compare players within and across clusters.
+
+**- Dynamic Metric Tables:** Filter and examine detailed player statistics based on selected clusters.
+
+
+### How to Use
+
+1. Clone the repository.
+2. Install all required libraries as listed in requirements.txt.
+3. Execute the Jupyter notebooks to view the analysis and regenerate the results.
+4. Access the Shiny app for interactive visualizations and data exploration.
+
 
 
 ### Libraries to Use
