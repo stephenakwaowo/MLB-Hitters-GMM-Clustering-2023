@@ -1,0 +1,134 @@
+source,target,weight
+DJ LeMahieu,José Ramírez,0.010571050628999108
+Julio Rodríguez,Fernando Tatis Jr.,0.013392993690172685
+Julio Rodríguez,Josh Jung,0.15016943689414616
+George Springer III,Bobby Witt Jr.,0.07756389572070467
+George Springer III,Ke'Bryan Hayes,0.14513946086812352
+George Springer III,Nolan Arenado,0.1983576153541419
+Xander Bogaerts,José Ramírez,0.012386074346529368
+Xander Bogaerts,Isaac Paredes,0.029124661170072327
+Cal Raleigh,MJ Melendez Jr.,0.020825676730054327
+Cal Raleigh,Ryan McMahon,0.22500900931411189
+Will Smith,Nathaniel Lowe,0.006439488822099861
+Will Smith,Corbin Carroll,0.009716358846992186
+Eugenio Suárez,Bryan Reynolds,0.07636404712279381
+Eugenio Suárez,James Outman,0.11611004316137288
+Nico Hoerner,Luis Arraez,0.09481742045218777
+Triston Casas,Jack Suwinski,0.003936865416381733
+Triston Casas,Austin Riley,0.010365460180719469
+Dansby Swanson,Josh Bell,0.09868862019315466
+Dansby Swanson,Vladimir Guerrero Jr.,0.11262234341469893
+Jake Cronenworth,Tommy Edman,0.19476290631407306
+Ronald Acuña Jr.,Matt Olson,0.00047306851544002556
+Ronald Acuña Jr.,Juan Soto,0.0008017927405206842
+Ronald Acuña Jr.,Kyle Schwarber,0.041158167958981494
+Whit Merrifield,Keibert Ruiz,0.0018956403115270523
+J.T. Realmuto,Michael Harris II,0.002521912651405037
+J.T. Realmuto,Bo Bichette,0.04212162222778127
+Anthony Santander,Bobby Witt Jr.,0.25137915539175193
+Anthony Santander,Christian Walker,0.27199860956928634
+Anthony Santander,Willy Adames,0.30266961583610197
+Daulton Varsho,Hunter Renfroe,0.05798808141289218
+Daulton Varsho,Joey Meneses,0.529613868744691
+Amed Rosario,Andrés Giménez,0.002129449219500778
+Amed Rosario,Keibert Ruiz,0.004101609302767508
+Amed Rosario,Tim Anderson,0.05423199264057363
+Eddie Rosario,Javier Báez,0.10539788303749131
+Eddie Rosario,Ezequiel Tovar,0.21817160468658653
+Ketel Marte,Corbin Carroll,0.01662880324943308
+Ketel Marte,Justin Turner,0.019246283860105493
+Ketel Marte,Ian Happ,0.05173574963258446
+Ketel Marte,Spencer Steer,0.08003776479868559
+Spencer Torkelson,Gunnar Henderson,0.058255320789207296
+Spencer Torkelson,William Contreras,0.4576574568834954
+Nick Castellanos,Salvador Perez,0.03421620006147767
+Teoscar Hernández,J.D. Davis,0.01920694402934646
+Teoscar Hernández,Luis Robert Jr.,0.020585763618541524
+Max Muncy,Marcell Ozuna,0.05329372255188453
+Max Muncy,Yandy Díaz,1.0862534960560855
+Jack Suwinski,Marcell Ozuna,0.0020737604192884412
+Hunter Renfroe,José Abreu,0.21726881408896623
+Vladimir Guerrero Jr.,Bryan Reynolds,0.05092396728071531
+Bryson Stott,TJ Friedl Jr.,0.40749505817738035
+Bryson Stott,Alex Verdugo,0.5013155095703987
+Brandon Drury,MJ Melendez Jr.,0.1870593737806532
+Brandon Drury,Willy Adames,1.219862601942851
+TJ Friedl Jr.,Luis Arraez,0.3255943839233754
+Austin Hays,Andrew Vaughn,0.0034462960091746287
+Austin Hays,Anthony Volpe,0.004701226019725721
+Isaac Paredes,Justin Turner,0.006883066170031648
+Ezequiel Tovar,Salvador Perez,0.03309629032041893
+Luis Arraez,Myles Straw,0.11288050308071534
+José Ramírez,Jonathan India,0.019978823450926626
+Steven Kwan,Myles Straw,0.14418745891805812
+Steven Kwan,Ha-Seong Kim,0.15149563175362055
+CJ Abrams,Thairo Estrada,0.036530473696345614
+CJ Abrams,Dominic Smith,0.05884886313830921
+Josh Bell,Manny Machado,0.15202797059390147
+Freddie Freeman,Seiya Suzuki,0.6438592073749556
+Freddie Freeman,Christian Yelich,0.8428501980576091
+Carlos Santana,Maikel Garcia,0.15398217733496528
+Carlos Santana,Francisco Lindor,0.5194301755893588
+Dominic Smith,Jeremy Peña,0.01880817647736687
+Dominic Smith,Tommy Edman,0.08039992125462783
+Randy Arozarena,Christian Yelich,0.03694854732223708
+Randy Arozarena,Pete Alonso,0.1817332333063607
+Jeff McNeil,Andrew Benintendi,0.008201473136089819
+Orlando Arcia,Lourdes Gurriel Jr.,0.038246810389783656
+Orlando Arcia,Ke'Bryan Hayes,0.24107908548039655
+Trent Grisham,Spencer Steer,0.017230547828687486
+Cody Bellinger,Carlos Correa,0.13602253060509292
+Cody Bellinger,Maikel Garcia,0.2529406288348751
+J.P. Crawford,Adley Rutschman,0.06980419247873342
+J.P. Crawford,LaMonte Wade Jr.,0.14858654353941908
+José Abreu,Leody Taveras,0.00674230523677292
+Rafael Devers,James Outman,0.018852021880527765
+Rafael Devers,Corey Seager,0.03083919834301138
+Trea Turner,Bo Bichette,0.016537615110632682
+Trea Turner,Bryan De La Cruz,0.026894748312492753
+Carlos Correa,Lane Thomas,0.10039813921005314
+MJ Melendez Jr.,Josh Jung,0.12143080355184782
+Andrew Benintendi,Keibert Ruiz,0.016362022977177714
+Corey Seager,Adolis García,0.08917728712322953
+Fernando Tatis Jr.,J.D. Davis,0.036274151439518454
+Adley Rutschman,Lars Nootbaar,0.695148767932426
+Michael Harris II,Willy Adames,0.17869117393151862
+Jeimer Candelario,Lane Thomas,0.16746315982349266
+Jeimer Candelario,Ozzie Albies,0.18137955254124444
+Alex Verdugo,Mark Canha,0.5273805793233429
+Matt Chapman,Paul Goldschmidt,0.07530014158748069
+Matt Chapman,Jorge Soler,0.09780315067870697
+Shohei Ohtani,Matt Olson,6.480502032372197e-05
+Bryce Harper,Brent Rooker Jr.,0.010114382772280639
+Alec Bohm,Lourdes Gurriel Jr.,0.07113753392571213
+Manny Machado,Tyler Stephenson,0.41550948781683256
+Ozzie Albies,Bryan De La Cruz,0.016420763732097034
+Ozzie Albies,Anthony Volpe,0.017543673641245792
+Ozzie Albies,Leody Taveras,0.035761696515925034
+Jeremy Peña,Elias Díaz,0.8178379374337947
+Marcus Semien,Matt Vierling,0.03486753886195832
+Marcus Semien,Francisco Lindor,0.4049375101796918
+Andrés Giménez,Enrique Hernández,0.013908215140824083
+Lars Nootbaar,Alex Bregman,1.075187107661201
+J.D. Davis,Jake Burger,0.02088365542536661
+Kyle Tucker,Brandon Nimmo,0.05138127065405484
+Alex Bregman,Ha-Seong Kim,0.004469432252265695
+Tommy Edman,Jurickson Profar,0.16136637177469193
+Elias Díaz,Javier Báez,0.8772867483160389
+LaMonte Wade Jr.,Brandon Nimmo,0.06835294968501242
+Lourdes Gurriel Jr.,Tyler Stephenson,0.18560318864248737
+Masataka Yoshida,Gleyber Torres,0.06741842596244235
+Masataka Yoshida,Matt Vierling,0.0952131607024207
+Mark Canha,Jonathan India,0.3676525424638103
+Pete Alonso,Paul Goldschmidt,0.12368809221504576
+Brent Rooker Jr.,Adolis García,0.024811328095537682
+Thairo Estrada,Enrique Hernández,0.010688873320161482
+Zach McKinstry,Jurickson Profar,0.7338590608413581
+Zach McKinstry,Ty France,0.7703510791357384
+Juan Soto,Mookie Betts,0.02431173421670884
+Jorge Soler,Austin Riley,0.017394938513269183
+Austin Riley,Gunnar Henderson,0.04281891096330134
+Joey Meneses,Ty France,0.05979318970529779
+Kyle Schwarber,Yandy Díaz,0.8141190959902422
+Brandon Nimmo,Seiya Suzuki,0.04156086518357459
+Gleyber Torres,Spencer Steer,0.005889859505679225
