@@ -1,4 +1,5 @@
-# Clustering-MLB-Hitters: A project on Gaussian Mixture Models and Dimensionality Reduction, Visualized with Shiny
+# Clustering-MLB-Hitters: Gaussian Mixture Models, Sequential Dimensionality Reduction Strategy, and the BONDS Index, Visualized with Shiny
+
 
 ### Project Overview
 This project utilizes advanced data science techniques to analyze and cluster MLB hitters based on their performance in the 2023 season. The goal is to uncover distinct patterns and groupings that transcend traditional statistical analysis, offering new insights into player performance.
