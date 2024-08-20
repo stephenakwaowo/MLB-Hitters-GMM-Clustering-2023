@@ -2,11 +2,11 @@
 
 
 ### Project Overview
-This project utilizes advanced data science techniques to analyze and cluster MLB hitters based on their performance in the 2023 season. The goal is to uncover distinct patterns and groupings that transcend traditional statistical analysis, offering new insights into player performance.
+This project utilizes advanced statistical and machine learning techniques to analyze and cluster MLB hitters based on their performance in the 2023 season. The goal is to uncover distinct patterns and groupings that transcend traditional statistical analysis, offering new insights into player performance.
 
 
 ### Methodology
-**1. Dimensionality Reduction:** Implemented PCA to reduce feature space, retaining significant variance, followed by t-SNE for intuitive low-dimensional visualization.
+**1. Sequential Dimensionality Reduction:** Employed an approach to first reduce dimensionality with PCA, ensuring minimal loss of significant variance, followed by t-SNE for more nuanced visualization of high-dimensional data in a low-dimensional space.
 
 **2. Clustering:** Applied Gaussian Mixture Models (GMM) to discover latent player groupings, with flexibility to account for multi-cluster memberships.
 
@@ -39,6 +39,8 @@ This project utilizes advanced data science techniques to analyze and cluster ML
 
 **scikit-learn:** Machine learning and data preprocessing.
 
+**scikit-fuzzy:** For applying Fuzzy C-Means clustering, allowing for soft cluster assignments where players can belong to multiple clusters with varying degrees of membership.
+
 **shiny:** For deploying interactive web applications to showcase cluster analysis.
 
 
@@ -53,10 +55,9 @@ The visualization and interaction layer is deployed using Shiny, which allows us
 ### How to Use
 
 1. Clone the repository.
-2. Install all required libraries as listed in requirements.txt.
-3. Execute the Jupyter notebooks to view the analysis and regenerate the results.
+2. Install all required libraries as listed in `requirements.txt`.
+3. Execute the Jupyter notebook to view the analysis and regenerate the results.
 4. Access the Shiny app for interactive visualizations and data exploration.
-
 
 
 ### Libraries to Use
@@ -88,3 +89,20 @@ from sklearn.metrics import silhouette_score
 from IPython.display import display
 from math import pi
 ```
+```R
+library(shiny)
+library(shinydashboard)
+library(dplyr)
+library(plotly)
+library(htmltools)
+library(mclust)
+library(DT)
+library(ggplot2)
+library(ggfortify)
+library(webshot2)
+library(htmlwidgets)
+library(rvest)
+```
+
+Python:  `pip install -r requirements.txt`
+R: Use the provided R script or install packages individually as needed.
