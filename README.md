@@ -8,9 +8,9 @@ This project utilizes advanced statistical and machine learning techniques to an
 ### Methodology
 **1. Sequential Dimensionality Reduction:** Employed an approach to first reduce dimensionality with PCA, ensuring minimal loss of significant variance, followed by t-SNE for more nuanced visualization of high-dimensional data in a low-dimensional space.
 
-**2. Clustering:** Applied Gaussian Mixture Models (GMM) to discover latent player groupings, with flexibility to account for multi-cluster memberships.
+**2. Model Selection:** Determined the optimal number of clusters using Akaike Information Criterion (AIC) and Bayesian Information Criterion (BIC).
 
-**3. Model Selection:** Determined the optimal number of clusters using Akaike Information Criterion (AIC) and Bayesian Information Criterion (BIC).
+**3. Clustering:** Applied Gaussian Mixture Models (GMM) to discover latent player groupings, with flexibility to account for multi-cluster memberships.
 
 **4. Validation:** Used silhouette scores to evaluate clustering quality.
 
